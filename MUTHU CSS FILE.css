@@ -253,23 +253,10 @@ font-size: 30px;
     justify-content: center;
     margin-bottom: 50px;
 }
-.social-icon{
-    width: 130px;
-    height: 130px;
-    background-size: cover;
-    background-position: center;
-    margin: 0 20px;
+.class-social a{
+    padding: 30px;
+}
 
-}
-.fb{
-    background-image: url(../mahendran/facebook.png);
-}
-.insta{
-    background-image: url(../mahendran/insta.png);
-}
-.wa{
-    background-image: url(../mahendran/whatsapp.png);
-}
 
 
 
