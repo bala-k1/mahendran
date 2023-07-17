@@ -17,8 +17,8 @@ body {
 }
 
 .logo img {
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
     margin-left: 370px;
     margin-top: -20px;
 }
@@ -344,8 +344,8 @@ text-align: center;
     }
     
     .logo img {
-        width: 300px;
-        height: 300px;
+        width: 250px;
+        height: 250px;
         margin-left: 0px;
         margin-top: -40px;
     }
